@@ -1,0 +1,7 @@
+{
+  "name": "ionicmaps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
